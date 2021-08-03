@@ -17,7 +17,7 @@ const { SubMenu } = Menu;
 
 const menuList = [
     {
-        title: "JavaScript 基础1",
+        title: "JavaScript 基础2",
         icon: <JsIcon />,
         key: "JS",
         children: [{
@@ -40,7 +40,7 @@ const menuList = [
         }]
     },
     {
-        title: "HTML 基础",
+        title: "HTML 基础2",
         icon: <HtmlIcon />,
         key: "HTML",
         children: [{
